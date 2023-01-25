@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/BogdanL-UA/goit-react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "/BogdanL-UA/goit-react-hw-01-components/static/js/main.07d3183d.js",
+    "main.css": "/BogdanL-UA/goit-react-hw-01-components/static/css/main.04b82d8c.css",
+    "main.js": "/BogdanL-UA/goit-react-hw-01-components/static/js/main.e40cafad.js",
     "index.html": "/BogdanL-UA/goit-react-hw-01-components/index.html",
-    "main.7acaea2f.css.map": "/BogdanL-UA/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/BogdanL-UA/goit-react-hw-01-components/static/js/main.07d3183d.js.map"
+    "main.04b82d8c.css.map": "/BogdanL-UA/goit-react-hw-01-components/static/css/main.04b82d8c.css.map",
+    "main.e40cafad.js.map": "/BogdanL-UA/goit-react-hw-01-components/static/js/main.e40cafad.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.04b82d8c.css",
+    "static/js/main.e40cafad.js"
   ]
 }
