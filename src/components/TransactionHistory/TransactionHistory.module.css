@@ -1,0 +1,19 @@
+.tabletHead{
+  background-color: rgb(113, 113, 214);
+  color: aliceblue;
+  font-size: 30px;
+}
+
+.tabletHeadHeader{
+  padding: 5px;
+}
+
+.tabletBody{
+  text-align: center;
+}
+
+.tabletBodyRow{
+font-style: italic;
+font-size: 30px;
+padding: 5px;
+}
